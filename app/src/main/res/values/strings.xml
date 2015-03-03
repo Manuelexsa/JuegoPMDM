@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JuegoMisiles</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_actividad_juego">ActividadJuego</string>
+    <string name="nuevo_juego">Nueva Partida</string>
+    <string name="puntuacion">Puntuacion</string>
+    <string name="high_score">HIGH SCORE</string>
+</resources>
